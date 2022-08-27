@@ -5,7 +5,7 @@ import lombok.Data;
 
 @Data
 @Builder
-class Ingredient {
+public class Ingredient {
     private String name;
     private String quantity;
 }

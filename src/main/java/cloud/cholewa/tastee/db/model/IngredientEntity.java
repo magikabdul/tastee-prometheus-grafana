@@ -20,7 +20,7 @@ public class IngredientEntity {
     @GeneratedValue
     private Long id;
 
-    private String title;
+    private String name;
 
     private String quantity;
 }
