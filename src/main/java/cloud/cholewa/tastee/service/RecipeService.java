@@ -7,10 +7,10 @@ import org.springframework.stereotype.Service;
 @Service
 public class RecipeService {
 
+
     public Long addRecipe(RecipeRequest recipeRequest) {
         return null;
     }
-
 
     public Recipe getRecipeById(Long id) {
         return null;

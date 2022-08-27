@@ -18,7 +18,7 @@ import java.util.Set;
 @NoArgsConstructor
 @Getter
 @Setter
-class RecipeEntity {
+public class RecipeEntity {
 
     @Id
     @GeneratedValue
